@@ -5,12 +5,10 @@
 <table width="100%"> 
   <tr>
   <td width="50%">    
-    <a href="https://github.com/Mahadi74"><img src="https://github-readme-stats.vercel.app/api?username=Mahadi74&count_private=true&show_icons=true&hide_border=true&theme=radical" height="165" /></a>
+    <a href="https://github.com/mehedi-rul"><img src="https://github-readme-stats.vercel.app/api?username=mehedi-rul&count_private=true&show_icons=true&hide_border=true&theme=radical" height="165" /></a>
   </td>
   <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)]()
-
+<a href="https://github.com/mehedi-rul"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-rul&langs_count=8&hide=html,css&layout=compact" height="180" /></a>
   </td>
   
   </table>
