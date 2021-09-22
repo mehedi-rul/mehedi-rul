@@ -5,10 +5,10 @@
 <table width="100%"> 
   <tr>
   <td width="50%">    
-    <a href="https://github.com/mehedi-rul"><img src="https://github-readme-stats.vercel.app/api?username=mehedi-rul&count_private=true&show_icons=true&hide_border=true&theme=radical" height="165" /></a>
+    <a href="https://github.com/mehedi-rul"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=mehedi-rul&count_private=true&show_icons=true&hide_border=true&theme=radical" height="180"/></a>
   </td>
   <td width="50%">
-<a href="https://github.com/mehedi-rul"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-rul&langs_count=8&hide=html,css&layout=compact" height="180" /></a>
+<a href="https://github.com/mehedi-rul"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi74&langs_count=8&hide=html,css&layout=compact&theme=radical" height="180"/></a>
   </td>
   
   </table>
